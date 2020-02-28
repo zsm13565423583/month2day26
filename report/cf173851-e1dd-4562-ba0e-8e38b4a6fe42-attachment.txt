@@ -1,0 +1,10 @@
+base.py                     11 INFO     正在初始化driver对象，driver：<appium.webdriver.webdriver.WebDriver (session="0b4abb34-669b-4a6b-bbbd-65221fb0c2e7")>
+base.py                     22 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/bt_no')元素进行点击操作
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/bt_no')元素
+base.py                     25 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/bt_no')元素点击完成
+base.py                     22 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/mine_layout')元素进行点击操作
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/mine_layout')元素
+base.py                     25 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/mine_layout')元素点击完成
+base.py                     22 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/mine_username_tv')元素进行点击操作
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/mine_username_tv')元素
+base.py                     25 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/mine_username_tv')元素点击完成

@@ -1,0 +1,35 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1582907785620" stop="1582907863570">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1582907785620" status="passed" stop="1582907845728">
+      <name>test01_login.TestLogin.test02_login[123--false]</name>
+      <attachments>
+        <attachment source="cf173851-e1dd-4562-ba0e-8e38b4a6fe42-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d71c337d-013a-42d8-88f5-1920233161e6-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1616-MainThread"/>
+        <label name="host" value="LAPTOP-B4892MDH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1582907845734" status="passed" stop="1582907863570">
+      <name>test01_login.TestLogin.test02_login[-123-false]</name>
+      <attachments>
+        <attachment source="3601380d-a7ce-458e-9c1e-1499411054f2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1616-MainThread"/>
+        <label name="host" value="LAPTOP-B4892MDH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

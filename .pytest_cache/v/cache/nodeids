@@ -1,0 +1,4 @@
+[
+  "scripts/test01_login.py::TestLogin::()::test02_login[123--false]",
+  "scripts/test01_login.py::TestLogin::()::test02_login[-123-false]"
+]

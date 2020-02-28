@@ -1,0 +1,14 @@
+page_login.py               30 INFO     正在调用登录业务方法，账号为，密码为：123
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素
+base.py                     32 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素进清空击操作
+base.py                     35 INFO     正在对:('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素进输入操作，输入内容为:value
+base.py                     37 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素输入操作完成
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素
+base.py                     32 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素进清空击操作
+base.py                     35 INFO     正在对:('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素进输入操作，输入内容为:value
+base.py                     37 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素输入操作完成
+base.py                     22 INFO     正在对('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素进行点击操作
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素
+base.py                     25 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素点击完成
+base.py                     15 INFO     正在查找:('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素
+base.py                     45 INFO     正在获取:('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素的属性值
